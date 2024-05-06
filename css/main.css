@@ -1,0 +1,43 @@
+.dfd{
+    color: aqua;
+}
+body{
+    background-color: rgba(93, 108, 77, 0.99);
+}
+.bg{
+    background-color: #3dce95;
+    border-bottom: 1px solid white;
+}
+.m{
+    margin: 0 !important;
+}
+.mr{
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    color: #3dce95;
+    text-align: center;
+    margin-left: 495px;
+    margin-top: -20px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+span1{
+    color: white;
+    margin-left: 370px;
+    width: 25px;
+    height: 25px;
+}
+.br{
+    padding-bottom: 40px;
+    border-bottom: 1px solid white;
+}
+span{
+    padding-top: -70px;
+}
+h5{
+    margin-top: -20px;
+}
+.mkl{
+    height: 42px;
+}
